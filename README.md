@@ -1,1 +1,1 @@
-Biletul: NUMAR_BILET\n\nAcesta este un proiect pentru examen.
+Biletul: 25\n\nAcesta este un proiect pentru examen.
